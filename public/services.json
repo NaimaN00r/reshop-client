@@ -1,0 +1,156 @@
+[
+       
+       
+            {
+                "category":"CHANEL",
+                "name": "2.55 Hand Bag",
+                "email":"",
+                "image":"https://www.chanel.com/images/q_auto,f_auto,fl_lossy,dpr_auto/w_640/FSH-1671534587283-d01.jpg",
+                "location":"Chowhatta Sylhet",
+                "price":"$50760",
+                "originalPrice":"$10750",
+                "used":"1Years",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+            },
+            {
+                "category":"CHANEL",
+                "name": "Chanel 22 Bag",
+                "email":"",
+                "image":"https://www.chanel.com/images/q_auto,f_auto,fl_lossy,dpr_auto/w_640/FSH-1671534666690-d01.jpg",
+                "location":"NoyaShorok",
+                "price":"10000",
+                "originalPrice":"$15960",
+                "used":"5Months",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+        },
+        
+      
+            {
+                "category":"GUCCI",
+                "name": "Ophidia Shoulder Bag Suede Mini",
+                "email":"",
+                "image":"https://cdn.shopify.com/s/files/1/0384/0161/products/201527-2_20Gucci_20Ophidia_20Shoulder_20Bag_20Suede_20Mini_2D_0002_100x100.jpg?v=1677260985",
+                "location":"Uttara",
+                "price":"$500",
+                "originalPrice":"$932",
+                "used":"1.5 year",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+            },
+            {
+                "category":"CHANEL",
+                "name": "Ace Sneakers Leather",
+                "email":"",
+                "image":"https://cdn.shopify.com/s/files/1/0384/0161/products/200845-1_20Gucci_20Ace_20Sneakers_20Leather_2D_0002_100x100.jpg?v=1677260688",
+                "location":"Bashundhara",
+                "price":"$896",
+                "originalPrice":"$1196",
+                "used":"2 year",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+            },
+
+    
+        
+       
+            {
+                "category":"PRADA",
+                "name": "Re-Edition 2000 Hobo Terry Cloth Mini",
+                "email":"",
+                "image":"https://cdn.shopify.com/s/files/1/0384/0161/products/201876-1_20Prada_20Re-Edition_202000_20Hobo_20Terry_20Cloth_20Mini_2D_0002_100x100.jpg?v=1677261153",
+                "location":"Kanaighat",
+                "price":"$1000",
+                "originalPrice":"$1360",
+                "used":"2.5 year",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+            },
+            {
+                "category":"PRADA",
+                "name": "Logo Drawstring Bucket Bag Canvas",
+                "email":"",
+                "image":"https://cdn.shopify.com/s/files/1/0384/0161/products/201948-1_20Prada_20Logo_20Drawstring_20Bucket_20Bag_20Canvas_2D_0002_100x100.jpg?v=1677260896",
+                "location":"kotowali",
+                "price":"$1000",
+                "originalPrice":"$1346",
+                "used":"5 year",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+            },
+            {
+                "category":"PRADA",
+                "name": "Padded Bucket Hat Re-Nylon",
+                "email":"",
+                "image":"https://cdn.shopify.com/s/files/1/0384/0161/products/200248-2_20Prada_20Padded_20Bucket_20Hat_20Re-Nylon_2D_0002_100x100.jpg?v=1677260771",
+                "location":"Chowhatta Sylhet",
+                "price":"$900",
+                "originalPrice":"$1552",
+                "used":"2Years",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+            },
+            {
+                "category":"PRADA",
+                "name": "Men's Triangle Logo Zip Up Blouson Jacket Leather",
+                "email":"",
+                "image":"image.png",
+                "location":"NoyaShorok",
+                "price":"$1500",
+                "originalPrice":"$2027",
+                "used":"1Years",
+                "mobile":"",
+                "condition":"",
+                "description":"",
+                "status":"available"
+        },
+        {
+            "category":"PRADA",
+            "name": "Galleria Double Zip Tote Saffiano Leather Medium",
+            "email":"",
+            "image":"https://cdn.shopify.com/s/files/1/0384/0161/products/201870-2_20Prada_20Galleria_20Double_20Zip_20Tote_20Saffiano_20Leather_20Medium_2D_0002_100x100.jpg?v=1677259711",
+            "location":"Uttara",
+            "price":"$500",
+            "originalPrice":"$989",
+            "used":"5 year",
+            "mobile":"",
+            "condition":"",
+            "description":"",
+            "status":"available"
+        },
+        {
+            "category":"PRADA",
+            "name": "Wristlet Wallet on Chain Saffiano Leather Mini",
+            "email":"",
+            "image":"https://cdn.shopify.com/s/files/1/0384/0161/products/200652-1_20Prada_20Wristlet_20Wallet_20on_20Chain_20Saffiano_20Leather_20Mini_2D_0002_100x100.jpg?v=1677257939",
+            "location":"Bashundhara",
+            "price":"$800",
+            "originalPrice":"$1223",
+            "used":"5 year",
+            "mobile":"",
+            "condition":"",
+            "description":"",
+            "status":"available"
+        }
+        
+
+]
+   
+    
+
+    
